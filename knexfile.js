@@ -4,7 +4,7 @@ require('dotenv').config();
 module.exports = {
     development: {
         client: 'pg',
-        connection: 'postgres://localhost/q2db'
+        connection: 'postgres://localhost/delete1'
     },
     production: {
         client: 'pg',
